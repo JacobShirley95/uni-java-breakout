@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<name>Easy</name>
+	<version>1.0</version>
+	<minBallSpeed>6</minBallSpeed>
+	<batWidth>100</batWidth>
+	<batSpeedTransferMod>0.60</batSpeedTransferMod>
+	<brickMap>--------------------------------------------------------------------------------uuuuu----------uuuuu----------uuuuu----------uuuuu----------bbbbb----------bbbbb-----</brickMap>
+</level>

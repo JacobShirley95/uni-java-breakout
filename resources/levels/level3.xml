@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<name>Hard</name>
+	<version>1.0</version>
+	<minBallSpeed>8</minBallSpeed>
+	<batWidth>100</batWidth>
+	<batSpeedTransferMod>0.67</batSpeedTransferMod>
+	<brickMap>--------------------------------------------------------------------------------xbbbx----------xuuux----------xuuux----------xuuux----------xuuux----------xuuux----------xxxxx-----</brickMap>
+</level>

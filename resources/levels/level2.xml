@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<level>
+	<name>Medium</name>
+	<version>1.0</version>
+	<minBallSpeed>6</minBallSpeed>
+	<batWidth>100</batWidth>
+	<batSpeedTransferMod>0.67</batSpeedTransferMod>
+	<brickMap>--------------------------------------------------x---x---------x-----x-------x-------x------x-------x------x---u---x------x-------x------x-------x-------x-----x---------xxxxx--------------------------------------------------</brickMap>
+</level>
