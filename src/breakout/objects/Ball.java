@@ -3,7 +3,7 @@ import breakout.Colour;
 
 /**
  * A class describing a ball.
- * @author Jacob
+ * @author Jacob Shirley
  */
 public class Ball extends GameObj {
 	public double vortexAngleInc = 0.0;

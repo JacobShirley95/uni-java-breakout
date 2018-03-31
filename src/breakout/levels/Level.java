@@ -6,7 +6,7 @@ import breakout.objects.Brick;
 
 /**
  * A class containing information about a level
- * @author Jacob
+ * @author Jacob Shirley
  */
 public class Level {
 	private BrickMapBuilder mapBuilder;

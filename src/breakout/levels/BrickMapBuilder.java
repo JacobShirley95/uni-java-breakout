@@ -5,7 +5,7 @@ import breakout.objects.Brick;
 
 /**
  * An interface describing how to build a brick map.
- * @author Jacob
+ * @author Jacob Shirley
  */
 public interface BrickMapBuilder {
 	/**

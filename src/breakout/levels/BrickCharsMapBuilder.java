@@ -6,7 +6,7 @@ import breakout.objects.Brick;
 
 /**
  * A brick map builder class that uses an array of characters to describe the configuration of bricks.
- * @author Jacob
+ * @author Jacob Shirley
  */
 public class BrickCharsMapBuilder implements BrickMapBuilder {
 	private char[] mapData;

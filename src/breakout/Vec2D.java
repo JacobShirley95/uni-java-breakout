@@ -2,7 +2,7 @@ package breakout;
 
 /**
  * A class for doing basic vector math.
- * @author Jacob
+ * @author Jacob Shirley
  */
 public class Vec2D {
 	public double x;

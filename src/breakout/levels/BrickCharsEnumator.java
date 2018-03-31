@@ -7,7 +7,7 @@ import breakout.objects.BrickStyle;
 /**
  * This class enumerates through an array of characters, generating the appropriate brick from the character.
  * 
- * @author Jacob
+ * @author Jacob Shirley
  */
 public class BrickCharsEnumator implements Enumeration<Brick> {
 	private char[] chars;

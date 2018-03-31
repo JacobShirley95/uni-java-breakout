@@ -14,7 +14,7 @@ import breakout.Debug;
 
 /**
  * A class defining various styles of the brick.
- * @author Jacob
+ * @author Jacob Shirley
  */
 public enum BrickStyle {
 	BASIC(Colour.BLUE, Colour.BLACK, 50),

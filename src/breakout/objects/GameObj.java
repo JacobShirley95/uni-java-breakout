@@ -6,7 +6,7 @@ import breakout.Vec2D;
  * An Object in the game, represented as a rectangle. Which holds details of
  * shape, plus possible local of travel. Would be better to use inheritance.
  * 
- * @author Mike Smith University of Brighton
+ * @author Jacob Shirley & Mike Smith University of Brighton
  */
 public class GameObj {
 	// All the variables below are vital to the state of the object

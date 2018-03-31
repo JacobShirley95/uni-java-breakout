@@ -17,7 +17,7 @@ import breakout.levels.Level;
 
 /**
  * A level loader which understands XML level files.
- * @author Jacob
+ * @author Jacob Shirley
  */
 public class XMLLevelLoader implements LevelLoader {
 	

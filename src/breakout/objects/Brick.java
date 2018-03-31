@@ -3,7 +3,7 @@ import breakout.Constants;
 
 /**
  * A class containing information about a brick.
- * @author Jacob
+ * @author Jacob Shirley
  */
 public class Brick extends GameObj {
 	private BrickStyle style;

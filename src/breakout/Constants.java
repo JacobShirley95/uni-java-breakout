@@ -2,7 +2,7 @@ package breakout;
 
 /**
  * A class defining constants for the game.
- * @author Jacob
+ * @author Jacob Shirley
  */
 public final class Constants {
 	// Settings

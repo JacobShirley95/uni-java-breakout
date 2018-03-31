@@ -3,7 +3,7 @@ import breakout.Vec2D;
 
 /**
  * A class containing information about a collision between objects.
- * @author Jacob
+ * @author Jacob Shirley
  */
 public class Collision {
 	public enum CollisionType {

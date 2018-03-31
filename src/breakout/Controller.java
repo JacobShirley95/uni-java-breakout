@@ -4,7 +4,7 @@ import java.awt.event.KeyEvent;
 /**
  * BreakOut controller, handles user interactions
  * 
- * @author Mike Smith University of Brighton
+ * @author Jacob Shirley & Mike Smith University of Brighton
  */
 public class Controller {
 

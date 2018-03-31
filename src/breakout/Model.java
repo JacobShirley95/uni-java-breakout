@@ -17,7 +17,7 @@ import breakout.objects.Collision.CollisionType;
 /**
  * Model of the game of breakout
  * 
- * @author Mike Smith University of Brighton
+ * @author Jacob Shirley & Mike Smith University of Brighton
  */
 
 public class Model extends Observable {

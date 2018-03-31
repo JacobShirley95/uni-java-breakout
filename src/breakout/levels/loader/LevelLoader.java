@@ -4,7 +4,7 @@ import breakout.levels.Level;
 
 /**
  * An interface defining how levels are loaded.
- * @author Jacob
+ * @author Jacob Shirley
  */
 public interface LevelLoader {
 	/**
